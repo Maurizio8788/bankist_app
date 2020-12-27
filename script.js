@@ -357,4 +357,3 @@ const startLogOutTimer = function(){
 return timer;
 }
 
-
